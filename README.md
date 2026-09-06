@@ -25,7 +25,7 @@ Dowloader это программа для загрузки видео с отк
  - Версия python 3.14.4
  - Зависимости :
    - Консольная утилита [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-   - Библиотеки [FFmpeg](https://github.com/FFmpeg/FFmpeg), Tkinter, os, webbrowser, threading, json
+   - Библиотеки : [FFmpeg](https://github.com/FFmpeg/FFmpeg), Tkinter, os, webbrowser, threading, json
 
 ## Лицензия
 
