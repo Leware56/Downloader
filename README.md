@@ -1,4 +1,4 @@
-# Dowloader (в архиве)
+# Downloader (public archive)
 
 Dowloader это программа для загрузки видео с открытым исходным кодом.
 
